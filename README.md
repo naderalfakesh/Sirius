@@ -1,29 +1,13 @@
-## Team:  Sirius
+## Team name:  Sirius
+
+## Team members:  Nadir Alfakesh  && Eyüp Kaan ÜLGEN 
 
 # Project Description
   ## Introduction
+  Günümüz dünyasında bilgiye ulaşmak çok
+kolay. Bununla birlikte sahte haberlere
+ulaşma imkanı da artıyor.
+• Topluluklar sahte haberlerle kolay bir
+şekilde manipüle edilebilir.
+Haberlerin sınıflandırma fikiri bu ihtiyaçtan doğmuş olup bu projeyi yapmaya bize motive etti
   
-  ## What it does? 
-  > What are the inputs/outputs? How does it work?
-  
-  ## Challenges
-  > Difficulties encountered
- ## Achievements
- > Progress, accomplishments
- 
-  ## Future work
-# Data 
- > Detailed data description
- 
- > Resource
-# Folder Structure
- > Repository folder structure
- 
-# Requirements
-> Software, packages etc.
-
-# How to Run
-> How to run from the command line? How to reproduce the results?  How to test your system? 
-
-# References
-
